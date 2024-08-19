@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439237797414",
+    "project_id": "prolinka01",
+    "storage_bucket": "prolinka01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439237797414:android:9330b4d0d89e30dd7a68e7",
+        "android_client_info": {
+          "package_name": "com.riccdigital.prolinkaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxLLn2UfkWkHO9BkcqNODYDlF_4n9P4_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
